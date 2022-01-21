@@ -1,0 +1,60 @@
+body {
+    background-color: #E5E5E5;
+    width: 100vh;
+}
+
+.logo {
+    padding-left: 15px;
+    background: #F7F6FF;
+}
+.line {
+    border-bottom: 2px solid #C4C4C4;
+    
+    padding-left: 10px;
+    padding-right: 15px;
+}
+
+.navbar {
+    width: 100px;
+    height: 906px;
+    background-color:#F7F6FF;
+    border-right: 2px solid rgb(221, 221, 221);
+    
+}
+#navbar .navigation .vectors ul {
+    list-style-type: none;
+}
+#navbar .navigation > ul > li > a {
+    display: block;
+    padding: 0 15px;
+  
+}
+#navigation .vectors .vector1 {
+    height: 25px;
+    width: 25px;
+    padding-left: 43px;
+    padding-top: 158px;
+}
+#navigation .vectors .vector2 {
+    height: 25px;
+    width: 25px;
+   padding-left: 37px;
+   padding-top: 233px;
+}
+#navigation .vectors .vector3 {
+    height: 25px;
+    width: 25px;
+    padding-left: 37px;
+    padding-top: 292px;
+}
+#navigation .vectors .vector4 {
+    height: 25px;
+    width: 40px;
+    padding-left: 30px;
+    padding-top: 351px;
+}
+
+.footer {
+    text-align: center;
+    margin-bottom: 50px;
+}
